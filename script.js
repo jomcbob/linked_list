@@ -90,7 +90,7 @@ class LinkedList {
         } else {
             let prev = null
             while (current.next !== null) {
-                prev = current;
+                prev = currentg
                 current = current.next
             }
             
